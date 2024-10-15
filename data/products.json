@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop Ultrabook",
+      "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+      "price": 1200.00
+    },
+    {
+      "id": 2,
+      "name": "Smartphone 5G",
+      "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+      "price": 799.99
+    },
+    {
+      "id": 3,
+      "name": "Auriculares Inalámbricos",
+      "imageUrl": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=crop&w=800&q=80",
+      "price": 199.99
+    },
+    {
+      "id": 4,
+      "name": "Tablet Pro",
+      "imageUrl": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=800&q=80",
+      "price": 650.00
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch Fitness",
+      "imageUrl": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?auto=format&fit=crop&w=800&q=80",
+      "price": 249.99
+    },
+    {
+      "id": 6,
+      "name": "Cámara DSLR",
+      "imageUrl": "https://images.unsplash.com/photo-1495433324511-bf8e92934d90?auto=format&fit=crop&w=800&q=80",
+      "price": 899.00
+    },
+    {
+      "id": 7,
+      "name": "Altavoz Bluetooth",
+      "imageUrl": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=crop&w=800&q=80",
+      "price": 149.99
+    },
+    {
+      "id": 8,
+      "name": "Consola de Videojuegos",
+      "imageUrl": "https://images.unsplash.com/photo-1587202372775-304e4e94b3d4?auto=format&fit=crop&w=800&q=80",
+      "price": 499.99
+    }
+  ]
+  
